@@ -10,3 +10,5 @@ matlab用到的资料
 [MATLAB开发安卓](http://blog.csdn.net/cuixing001/article/details/78587785?locationNum=8&fps=1)  
 ### 机器学习  
 [matlab自带各种分类器的使用示例](http://blog.csdn.net/u014114990/article/details/51067059)
+### 深度学习  
+[ 机器学习----matlab中的CNN](http://blog.csdn.net/u014096352/article/details/72854077)
