@@ -1,7 +1,8 @@
 # matlab
 matlab用到的资料  
 ### 图像操作  
-[matlab如何用鼠标选取fig图上的区域并获得坐标值](matlab如何用鼠标选取fig图上的区域并获得坐标值)  
+[matlab如何用鼠标选取fig图上的区域并获得坐标值](matlab如何用鼠标选取fig图上的区域并获得坐标值)    
+[matlab ——二值图像的连通区域图像处理与图像分析regionprops](https://blog.csdn.net/chaihuimin/article/details/76904840)
 ### 绘图  
 [使用Matlab绘制三维图的几种方法](http://blog.csdn.net/lg1259156776/article/details/47761293)  
 [MATLAB箭头标注](https://zhidao.baidu.com/question/575564618.html)  
