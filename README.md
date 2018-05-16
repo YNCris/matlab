@@ -16,4 +16,6 @@ matlab用到的资料
 [matlab自带各种分类器的使用示例](http://blog.csdn.net/u014114990/article/details/51067059)  
 [matlab K-means](https://blog.csdn.net/u010451580/article/details/52249195)
 ### 深度学习  
-[ 机器学习----matlab中的CNN](http://blog.csdn.net/u014096352/article/details/72854077)
+[ 机器学习----matlab中的CNN](http://blog.csdn.net/u014096352/article/details/72854077)  
+### 数据操作  
+[matlab里面如何保留小数特定位数](https://blog.csdn.net/xiakexiaohu/article/details/53760946)  
