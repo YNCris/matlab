@@ -23,3 +23,5 @@ matlab用到的资料
 [ 机器学习----matlab中的CNN](http://blog.csdn.net/u014096352/article/details/72854077)  
 ### 数据操作  
 [matlab里面如何保留小数特定位数](https://blog.csdn.net/xiakexiaohu/article/details/53760946)  
+### 矩阵操作  
+[matlab矩阵中如何去掉重复的行](https://blog.csdn.net/loveaborn/article/details/8486010)
