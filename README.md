@@ -13,7 +13,8 @@ matlab用到的资料
 [rose玫瑰图绘制](https://jingyan.baidu.com/article/3c343ff7f237930d36796350.html)  
 [画bar,boxplot](https://blog.csdn.net/lqhbupt/article/details/20291661)  
 [均值方差图：errorbar和shadedErrorBar](https://blog.csdn.net/zhouhuakang/article/details/78661661)  
-[仿R工具箱gramm](https://zhuanlan.zhihu.com/p/26168873)
+[仿R工具箱gramm](https://zhuanlan.zhihu.com/p/26168873)  
+[坐标轴像素长宽相同](https://ww2.mathworks.cn/help/matlab/ref/axis.html)
 ### 开发安卓
 [MATLAB开发安卓](http://blog.csdn.net/cuixing001/article/details/78587785?locationNum=8&fps=1)  
 ### 机器学习  
