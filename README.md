@@ -14,7 +14,8 @@ matlab用到的资料
 [画bar,boxplot](https://blog.csdn.net/lqhbupt/article/details/20291661)  
 [均值方差图：errorbar和shadedErrorBar](https://blog.csdn.net/zhouhuakang/article/details/78661661)  
 [仿R工具箱gramm](https://zhuanlan.zhihu.com/p/26168873)  
-[坐标轴像素长宽相同](https://ww2.mathworks.cn/help/matlab/ref/axis.html)
+[坐标轴像素长宽相同](https://ww2.mathworks.cn/help/matlab/ref/axis.html)  
+[matlab如何自定义colorbar](http://blog.sina.com.cn/s/blog_68fff85f0102v4h1.html)
 ### 开发安卓
 [MATLAB开发安卓](http://blog.csdn.net/cuixing001/article/details/78587785?locationNum=8&fps=1)  
 ### 机器学习  
