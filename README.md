@@ -16,7 +16,8 @@ matlab用到的资料
 [仿R工具箱gramm](https://zhuanlan.zhihu.com/p/26168873)  
 [坐标轴像素长宽相同](https://ww2.mathworks.cn/help/matlab/ref/axis.html)  
 [matlab如何自定义colorbar](http://blog.sina.com.cn/s/blog_68fff85f0102v4h1.html)  
-[matlab line的用法](https://blog.csdn.net/hbyzl/article/details/10857811)
+[matlab line的用法](https://blog.csdn.net/hbyzl/article/details/10857811)  
+[matlab colormap用法](https://baike.baidu.com/item/colormap/19584499)  
 ### 开发安卓
 [MATLAB开发安卓](http://blog.csdn.net/cuixing001/article/details/78587785?locationNum=8&fps=1)  
 ### 机器学习  
